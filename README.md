@@ -1,4 +1,4 @@
-# Advanced JavaScript syllabus
+# Hello.
 
 ***See this README with a table of contents [here](http://documentup.com/advanced-js/syllabus).***
 
