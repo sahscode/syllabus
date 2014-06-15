@@ -1,4 +1,4 @@
-# Hello.
+# Computer Science I Honors Syllabus
 
 ***See this README with a table of contents [here](http://documentup.com/advanced-js/syllabus).***
 
